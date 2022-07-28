@@ -1,15 +1,15 @@
 <h1 align="center">Desafio Typescript TMDB - DIO</h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Jeferson-Labout/instagram?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Jeferson-Labout/TypeScriptDio?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Jeferson-Labout/instagram">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Jeferson-Labout/TypeScriptDio">
 
   <a href="https://www.twitter.com/JefersonLabout/">
     <img alt="Siga no Twitter" src="https://camo.githubusercontent.com/2048a3b0875df30d126f788429d2c6eaab0049d77683951979aaeb87bb811b70/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f75726c3d68747470732533412532462532466769746875622e636f6d25324674676d6172696e686f253246524541444d452d65636f6c657461">
   </a>
   
-  <a href="https://github.com/Jeferson-Labout/instagram/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Jeferson-Labout/instagram">
+  <a href="https://github.com/Jeferson-Labout/TypeScriptDio/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Jeferson-Labout/TypeScriptDio">
   </a>   
    
 </p>
